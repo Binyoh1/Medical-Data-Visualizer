@@ -1,5 +1,5 @@
 # Medical Data Visualizer
- The second certification project for the [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) course on the [freeCodeCamp](https://www.freecodecamp.org/learn/) platform.
+ The third certification project for the [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) course on the [freeCodeCamp](https://www.freecodecamp.org/learn/) platform.
 
  The project requires the following tasks to be performed:
 
